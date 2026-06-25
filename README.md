@@ -58,7 +58,7 @@ Un ensemble de technologies sélectionnées pour leur robustesse et leur moderni
 
 ## 📊 Statistiques GitHub
 
-Les widgets s'intègrent de manière invisible et élégante avec le thème sombre natif de GitHub :
+
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
